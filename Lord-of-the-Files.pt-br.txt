@@ -10,16 +10,13 @@ por Robert McMillan, Wired Enterprise
 
 SÃO FRANCISCO — Quando os fundadores do GitHub se mudaram para um loft ostentador no bairro South-of-Market ano passado, a primeira coisa que fizeram foi redecorar. Eles transformaram o maior escritório do andar em uma paródia de uma suíte executiva — com direito a uma lareira falsa, cadeiras de couro peluciadas, e um globo de madeira que ao ser aberto revela uma única garrafa de uísque de malte. Na parede uma pintura de um gato, vestido como Napoleão, com pernas de polvo. Eles chamam de Octocat.
 
-
 [[The point is that it’s not an executive suite. It’s a communal meeting room where anyone can hang out with anyone else, get some work done, and have a little fun at the same time.]]
 
 O ponto é que não é uma suite executiva. É uma sala de reuniões onde qualquer um pode passar o tempo, trabalhar, e ter um momento de diversão ao mesmo tempo. 
 
-
 [[“Everybody can bring their friends into that room and sort of impress them and stuff,” says Scott Chacon, GitHub’s CIO co-founder. You see, Chacon and CEO Chris Wanstrath and the rest of the executive team don’t have private offices. They work on the open floor next to the coders, glued to monitors with the rest of the staff, listening to LCD Soundsystem. Loud.]]
 
 “Todos podem trazer seus amigos naquela sala e impressionar eles e tal,” diz Scott Chacon, CIO e co-fundador do GitHub. Veja que Chacon e o CEO Chris Wanstrath e o resto do time executivo não possuem escritórios privados. Eles trabalham em um andar aberto, perto dos desenvolvedores, colados a monitores com o resto do time, ouvindo LCD Soundsystem. Bem alto.
-
 
 [[GitHub’s geektastic 14,000-square-foot loft mirrors its mission: to democratize computer programming. GitHub.com is best thought of as Facebook for geeks. Instead of uploading videos of your cat, you upload software. Anyone can comment on your code and add to it and build it into something better. The trick is that it decentralizes programming, giving everyone a new kind of control. GitHub has shaken up the way software gets written, making coding a little more anarchic, a little more fun, and a lot more productive.]]
 
@@ -39,16 +36,15 @@ Uma vez que se escuta falar sobre o GitHub, voce começa a vê-lo em praticament
 
 [[Git Scratches Itch]]
 
-Git Arranha a Coceira
+Git coça a coceira
 
 [[Like so many other successful geek projects, GitHub began with coders scratching their own itch. About five years ago, Wanstrath and fellow programmer P.J. Hyett were both slinging code at Cnet, the tech news and reviews site. Their language of choice was Ruby on Rails, a programming framework that makes it easy to develop Web applications.]]
 
-Assim como outros projetos de geeks que tiveram sucesso, o GitHub começou com desenvolvedores coçando a própria coceira. Aproximadamente 5 anos atrás, Wanstrath e seu amigo programador P.J. Hyett estavam desenvolvendo na Cnet, o site de notícias e críticas de tecnologia. A linguagem escolhida por eles foi Ruby e o framework Rails, que facilitava o desenvolvimento de aplicações Web.
+Assim como outros projetos geeks que tiveram sucesso, o GitHub começou com desenvolvedores coçando a própria coceira. Aproximadamente 5 anos atrás, Wanstrath e seu amigo programador P.J. Hyett estavam desenvolvendo na Cnet, o site de notícias e críticas de tecnologia. A linguagem escolhida por eles foi Ruby e o framework Rails, que facilitava o desenvolvimento de aplicações Web.
 
 [[As they built out their sites at Cnet, Wanstrath and Hyett wound up making a lot of improvements to Ruby on Rails itself. But they found it wasn’t so easy to get those changes integrated back into the open-source project. Following the then-dominant model of open source development, Rails was managed by a cadre of trusted coders who’d been given permission to “commit” changes to the project’s source code. To get one of their changes added to the central code, Wanstrath and Hyett would have to lobby one of those trusted coders and convince him that their change was worth integrating. That was often more work than writing the code in the first place.]]
 
-Enquanto eles construiam os sites no Cnet, Wanstrath e Hyett acabaram implementando muitas melhorias no Ruby on Rails. Mas, eles descobriram que não era tão fácil fazer com que essas melhorias fossem integradas de volta ao projeto de software livre. Seguindo o modelo então dominante de desenvolvimento de software livre, o Rails era gerenciado por um grupo de programadores de confiança que tinham permissão para "commitar" as mudanças no código fonte do projeto.
-Para fazer com que uma alteração fosse incluida no repositório central, Wanstrath e Hyett tiveram que convencer um dos desenvolvedores de confiança daquele projeto para que a mudança deles valesse a pena e fosse integrada. Esse trabalho normalmente levava mais tempo do que desenvolver a melhoria.
+Enquanto eles construiam os sites no Cnet, Wanstrath e Hyett acabaram implementando muitas melhorias no Ruby on Rails. Mas, eles descobriram que não era tão fácil fazer com que essas melhorias fossem integradas de volta ao projeto de software livre. Seguindo o modelo então dominante de desenvolvimento de software livre, o Rails era gerenciado por um grupo de programadores de confiança que tinham permissão para "commitar" as mudanças no código fonte do projeto. Para fazer com que uma alteração fosse incluída no repositório central, Wanstrath e Hyett tiveram que pressionar um dos desenvolvedores de confiança e convencê-lo que valeria a pena integrar as suas mudanças. Esse trabalho normalmente levava mais tempo do que desenvolver a melhoria.
 
 [[They weren’t the only developers chafing under that Trusted Gatekeeper model of open source. A decade ago, Linus Torvalds found himself struggling to manage his role as gatekeeper of the Linux operating system he invented. In the beginning, Torvalds hosted Linux on a website belonging to the University of Helsinki. If people found a bug in the code, they’d send him a file with the changes via e-mail. If Torvalds read the e-mail and liked the changes, he’d incorporate them into Linux. But Torvalds is notorious for not reading all of his e-mail, so as the project got popular, more and more submissions were slipping through the cracks.]]
 
